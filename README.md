@@ -1,2 +1,3 @@
 # hello-world
-github操作
+Hello Men!
+welcome to github world!
